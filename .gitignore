@@ -1,0 +1,18 @@
+# Virtual Environment
+.venv/
+
+# IDE settings
+.idea/
+
+# PyInstaller folders
+build/
+dist/
+
+# Compiled .exe and Spec files
+*.exe
+*.spec
+
+__pycache__/
+
+# Generated outputs
+#plot/
